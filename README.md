@@ -18,9 +18,9 @@ The project uses JavaScript with event listeners to add and remove CSS classes t
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/113661891-8ba75100-96d9-11eb-97a3-22c3b7bcec24.png)
 
-[Demo]()
+[Demo](https://admiring-babbage-03a974.netlify.app)
 
 ## Built With
 
